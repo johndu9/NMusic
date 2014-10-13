@@ -1,0 +1,5 @@
+NMusic		KEYWORD1
+getScale	KEYWORD2
+getFrequency	KEYWORD2
+getChord	KEYWORD2
+invertChord	KEYWORD2
