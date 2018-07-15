@@ -1,4 +1,4 @@
-NMusic		KEYWORD1
+NMusic	KEYWORD1
 getScale	KEYWORD2
 getFrequency	KEYWORD2
 getChord	KEYWORD2
